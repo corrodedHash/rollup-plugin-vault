@@ -30,6 +30,7 @@
     "rollup": "3.x"
   },
   "devDependencies": {
+    "@types/node": "^20.5.9",
     "ava": "^5.1.0",
     "rollup": "^3.7.5",
     "unbuild": "^1.0.2"
